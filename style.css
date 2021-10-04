@@ -1,0 +1,32 @@
+body
+{
+background-image: cover;
+}
+
+.heading
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3
+{
+display: inline;
+font-weight: bold;
+}
+
+.heading button 
+{
+float: right;
+border: 1px solid white;
+}
+
+.big_image
+{
+width: 100%;
+}
+
+#start , #status , #restart
+{
+font-size: 25px;
+}
